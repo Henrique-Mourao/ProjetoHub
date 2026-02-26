@@ -401,7 +401,7 @@ def calcular_distancias_vetorizado(lat_centro, lon_centro, df_coords):
 def filtrar_imoveis_por_raio(lat_centro, lon_centro, raio_km):
     """Filtra imóveis dentro de um raio"""
     if _cache.kdtree is None:
-        raise ValueError("Execute inicializar_dados() primeiro")
+        raise ValueError("E xecute inicializar_dados() primeiro")
     
     raio_graus = raio_km / 111.0
     indices = _cache.kdtree.query_ball_point([lat_centro, lon_centro], raio_graus)
@@ -500,7 +500,7 @@ def gerar_mapa_demografico(df_filtrado, municipio_texto, raio_km, usar_filtro_id
             lat=df_map['Latitude'],
             lon=df_map['Longitude'],
             mode='markers',
-            marker=dict(size=8, color='#22c55e', opacity=0.6),
+            marker=dict(size=8, color="#0992a4", opacity=0.6),
             hoverinfo='skip',
             name='Imóveis'
         ))
