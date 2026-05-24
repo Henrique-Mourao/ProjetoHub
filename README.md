@@ -7,10 +7,6 @@ Dashboard interativo para análise demográfica e imobiliária com visualizaçõ
 ![Folium](https://img.shields.io/badge/Folium-0.14+-77B829?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-5.0+-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
 
@@ -322,42 +318,6 @@ Contribuições são bem-vindas! Para contribuir:
 
 ---
 
-## Licença
-
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-```
-MIT License
-
-Copyright (c) 2025 BAH - Business Analytics Hub
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-```
-
----
-
-## Autores
-
-**Equipe BAH**
-- Desenvolvimento e Análise de Dados
-- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) [BAH Analytics](https://github.com/seu-usuario/bah-analytics)
-
----
-
 ## Agradecimentos
 
 - **IBGE** - Dados demográficos e geográficos
@@ -372,14 +332,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ### BAH - Business Analytics Hub
 
-**Transformando dados em decisões estratégicas**
-
-[![GitHub stars](https://img.shields.io/github/stars/seu-usuario/bah-analytics?style=social)](https://github.com/seu-usuario/bah-analytics/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/seu-usuario/bah-analytics?style=social)](https://github.com/seu-usuario/bah-analytics/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/seu-usuario/bah-analytics?style=social)](https://github.com/seu-usuario/bah-analytics/watchers)
-
 ---
-
-Desenvolvido com dedicação pela equipe BAH
 
 </div>
